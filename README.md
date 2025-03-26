@@ -63,9 +63,6 @@ The dataset was created using:
 - Implementing real-time processing for IoV deployment.
 - Exploring additional deep learning architectures.
 
-## 📜 License
-This project is open-source under the MIT License.
-
 ---
 
 🔗 **Watch the demo video**: [YouTube Link](https://youtu.be/G0tXEq5pQ0A)
