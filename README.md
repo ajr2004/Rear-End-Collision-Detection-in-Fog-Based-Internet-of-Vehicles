@@ -1,5 +1,13 @@
 # 📌 Rear-End Collision Detection in Fog-Based Internet of Vehicles
 
+## 👨‍💻 Team Members:
+-G.V.SAI KESAV 
+-A.JANAKI RAM 
+-K.AJAY 
+-B.M.L HARI HARAN 
+
+---
+
 ## 📹 Demonstration Video
 A demonstration of the dataset generation process using PTV Vissim under various fog conditions is available on YouTube. Watch the video here:
 
